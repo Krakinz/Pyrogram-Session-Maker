@@ -60,9 +60,9 @@ if SERVER == "HEROKU":
     API_HASH = os.environ.get('API_HASH')
     BOT_TOKEN = os.environ.get('BOT_TOKEN')
 else:
-    API_ID = 6372795
-    API_HASH = "4b7731b0a6d8e15bef82863887feb293"
-    BOT_TOKEN = "1977359439:AAEhXQJ_M8dgivEW8wCCve_jYsiQZlp7E-A"
+    API_ID = 14944169
+    API_HASH = "21c1398d1d8c20000355a1921912f758"
+    BOT_TOKEN = "5234020186:AAFc4Tgjb6AtDCu_0aZj53N7G-T3FU2Mt4Y"
 
 
 """
@@ -100,7 +100,7 @@ HYPENAME = Client(
 
 PHONE_NUMBER_TEXT = """
 Now send your Telegram account's Phone number in International Format.Including Country code. 
-Example: **+919000000000**
+Example: **+2540000000**
 
 ᴘʀᴇꜱꜱ /exit ᴛᴏ ᴄᴀɴᴄᴇʟ ᴘʀᴏɢʀᴇꜱꜱ.
 """
