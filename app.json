@@ -3,15 +3,26 @@
     "repository": "https://github.com/Krakinz/Pyrogram-Session-Maker.git",
     "stack": "container",
     "description": "—••÷[🧊SΣSSIӨП_MΛKΣЯ🧊]÷••—",
-    "website": "https://t.me/Krakns",
-    "env": {
-    "API_ID":{
+    "website": "https://t.me/Krakinz",
+    "env": 
+{
+    "API_ID":
+{
     "description":"api_id part of your Telegram API Key From @HVApiBot Only",
-    "required":true},
-    "BOT_TOKEN":{
+    "required": true
+},
+    "BOT_TOKEN":
+{
     "description":"Put @BotFather Token",
-    "required":true},
-    "API_HASH":{
+    "required": true
+},
+    "API_HASH":
+{
     "description":"api_hash part of your Telegram API Key From @HVApiBot Only",
-    "required":true}},
-    "buildpacks": [{"url": "heroku/python"}]}
+    "required": true
+}},
+    "buildpacks": [
+{
+"url": "heroku/python"
+}]
+}
