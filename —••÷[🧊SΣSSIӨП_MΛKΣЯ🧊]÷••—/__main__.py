@@ -61,9 +61,8 @@ if SERVER == "HEROKU":
     BOT_TOKEN = os.environ.get('BOT_TOKEN')
 else:
     API_ID = 14944169
-    API_HASH = "21c1398d1d8c20000355a1921912f758"
-    BOT_TOKEN = "5234020186:AAFc4Tgjb6AtDCu_0aZj53N7G-T3FU2Mt4Y"
-
+    API_HASH = "21c1398d1d8c20000355a1921912f758"    
+    BOT_TOKEN = "5374796148:AAEZYLoRmA9SkETsrIAybz9ISJSKXj-zIz0"
 
 """
 •=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=••=•
